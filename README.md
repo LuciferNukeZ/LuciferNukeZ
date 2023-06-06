@@ -1,7 +1,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=5CD8F7&center=true&vCenter=true&lines=Whatsup%2C+I'm+Lucifer!+%F0%9F%91%8B)](https://git.io/typing-svg)
 ## I'm mostly interested in Coding!</h1> 
 ```
-My Age : 15,
+My Age : 16,
 
 Learn more about me:
 ```
@@ -13,7 +13,7 @@ Learn more about me:
 ```py
 import the_best as Lucifer
 
-class Coding(Vinyzu):
+class Coding(Atom):
     def __init__(self):
         super.__init__()
     
@@ -47,14 +47,14 @@ class Myself(Person):
         super.__init__()
     
     def life(self):
-        self.age = 15
+        self.age = 16
         self.languages = ["English", "Hindi"]
         self.location = www.discord.com
-        self.fun_fact = "Love D <3"
+        self.fun_fact = "Love A <3"
 
     def contact(self):
         self.discord = "Lucifer.ly~\"
-        self.server = "https://discord.gg/jkop"
+        self.server = "https://discord.gg/pixar"
         self.freelancing = self.discord
         self.collaborations = self.discord
 ```
