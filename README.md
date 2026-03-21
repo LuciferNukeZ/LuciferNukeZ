@@ -20,6 +20,7 @@
 i'm Addi — a developer who genuinely enjoys writing code.
 i started with Python and never stopped picking up new languages since.
 i build things end-to-end, from scripts to full applications.
+i private repositories if i am not currently working on them sorry!
 
 - 🧠 &nbsp; always deep in something new
 - ⚡ &nbsp; i move fast and ship often
